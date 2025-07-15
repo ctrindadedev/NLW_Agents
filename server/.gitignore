@@ -1,0 +1,6 @@
+.env
+node_modules
+
+# Enquanto ainda não está pronto
+services
+client.http
